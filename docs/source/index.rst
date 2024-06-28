@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+GO99 - nền tảng cá cược trực tuyến uy tín tin cậy trong khu vực Đông Nam Á - go99.exchange
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GO99 <https://go99.exchange/>`_ - nền tảng cá cược trực tuyến uy tín tin cậy trong khu vực Đông Nam Á. Chúng tôi không chỉ sở hữu kho trò chơi đồ sộ của Casino online mà còn có vô số quà tặng cũng như phần thưởng ưu đãi cho các thành viên của mình.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+#Go99 #Go99App #NhacaiGo99 #TrangchuGo99 #Go99exchange
 
-.. note::
+Địa chỉ: 87 ngõ 122 Phố Vĩnh Tuy, Vĩnh Tuy, Hai Bà Trưng , Hà Nội
 
-   This project is under active development.
+Điện thoại: 094.406.3791
 
-Contents
---------
+Email: Go99exchange@gmail.com
 
-.. toctree::
-
-   usage
-   api
+Website: https://go99.exchange/
